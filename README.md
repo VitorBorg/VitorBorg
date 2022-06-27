@@ -12,10 +12,12 @@
 <span>
   
 Atualmente cursando Ciência da computação na UFPEL. </br>
+</span>
+<!--
+<span>
 E também colocando em prática todas as tecnologias listadas abaixo.
 
 </span>
-<!--
 <div>
 <img align="center" alt="reactJS" height="24" width="24" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -
 <img align="center" alt="JS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
