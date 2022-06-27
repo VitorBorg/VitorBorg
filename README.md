@@ -15,7 +15,7 @@ Atualmente cursando Ciência da computação na UFPEL. </br>
 E também colocando em prática todas as tecnologias listadas abaixo.
 
 </span>
-
+<!--
 <div>
 <img align="center" alt="reactJS" height="24" width="24" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -
 <img align="center" alt="JS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
@@ -25,7 +25,7 @@ E também colocando em prática todas as tecnologias listadas abaixo.
 <img align="center" alt="typescript" height="24" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> -
 <img align="center" alt="nextJS" height="24" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div>
-
+-->
 <!--
 **VitorBorg/VitorBorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
