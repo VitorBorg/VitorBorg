@@ -1,5 +1,5 @@
 <h1>Vitor Borges</h1>
-<h3>Desenvolvedor Front end Junior</h3>
+<h3>Estudante</h3>
 
 <div style="display: flex">
 <a href="https://www.linkedin.com/in/vitorsborg/">
