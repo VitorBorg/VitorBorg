@@ -11,6 +11,7 @@
 <span>
   
 Atualmente cursando Ciência da computação na UFPEL. </br>
+Desenvolvedor web full-stack utilizando ReactJS/NextJS e Java com Spring Boot.
 </span>
 <!--
 <span>
