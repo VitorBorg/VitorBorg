@@ -11,8 +11,7 @@
 <span>
   
 Atualmente cursando Ciência da computação na UFPEL. </br>
-Desenvolvedor web back-end utilizando Java com Spring Boot, com muita atenção em microservices, clean architecture e TDD.
-Também tenho um breve conhecimento em front-end utilizando React JS/Next JS.
+Entusias em desenvolvimento web no back-end utilizando Java com Spring Boot, e no front utilizando React JS e Next JS.
 </span>
 <!--
 <span>
