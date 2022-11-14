@@ -11,7 +11,7 @@
 <span>
   
 Atualmente cursando Ciência da computação na UFPEL. </br>
-Entusias em desenvolvimento web no back-end utilizando Java com Spring Boot, e no front utilizando React JS e Next JS.
+Entusiasta em desenvolvimento web no back-end utilizando Java com Spring Boot, e no front utilizando React JS e Next JS.
 </span>
 <!--
 <span>
