@@ -10,8 +10,8 @@
 
 <span>
   
-Atualmente cursando Ciência da computação na UFPEL. </br>
-Entusiasta em desenvolvimento web no back-end utilizando Java com Spring Boot, e no front utilizando React JS e Next JS.
+Atualmente cursando Ciência da computação na UFPEL e. </br>
+Sou desenvolvedor Unity, mas me viro bem no back-end utilizando .NET, e no front eu arrisco um React JS. Nos dias mais inspiradores estudo redes neurais.
 </span>
 <!--
 <span>
