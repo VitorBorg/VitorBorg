@@ -10,8 +10,10 @@
 
 <span>
   
-Atualmente cursando Ciência da computação na UFPEL e. </br>
-Sou desenvolvedor Unity, mas me viro bem no back-end utilizando .NET, e no front eu arrisco um React JS. Nos dias mais inspiradores estudo redes neurais.
+Atualmente cursando Ciência da computação na UFPEL. </br>
+Sou desenvolvedor Unity, mas me viro bem no back-end utilizando .NET, e no front eu arrisco um React JS. 
+
+Nos dias mais inspiradores estudo redes neurais.
 </span>
 <!--
 <span>
