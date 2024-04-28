@@ -10,10 +10,12 @@
 
 <span>
   
-Atualmente cursando Ciência da computação na UFPEL. </br>
-Sou desenvolvedor Unity, mas me viro bem no back-end utilizando .NET, e no front eu arrisco um React JS. 
+Formado em Ciência da computação pela Universidade Federal de Pelotas. </br>
+Sou desenvolvedor de jogos utilizando principalmente a Unity, com experiência em aplicação AR e VR. 
+Com recorrência desenvolvo aplicações web no back-end em C# utilizando .NET, e no front eu arrisco um React JS. 
 
-Nos dias mais inspiradores estudo redes neurais.
+Estudo bastante sobre soluções multiplayer na unity.
+Nos dias mais inspiradores também estudo redes neurais.
 </span>
 <!--
 <span>
